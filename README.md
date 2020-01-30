@@ -8,3 +8,6 @@ It uses Apple’s build in framework AVFoundation to apply different sound effec
 * Echo
 * Reverb
 
+The screenshot of the App is:
+
+![iManifest iOS App](ScreenShot.jpg)
